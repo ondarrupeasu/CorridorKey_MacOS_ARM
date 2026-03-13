@@ -4,8 +4,6 @@ A native macOS graphical interface for [CorridorKey](https://github.com/nikopuer
 
 Built for **Apple Silicon** (M1/M2/M3/M4). No terminal required after installation.
 
-![Dark themed interface with file inputs, settings sliders, and progress bar](screenshot_placeholder.png)
-
 ---
 
 ## Features
