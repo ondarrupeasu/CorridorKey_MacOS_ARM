@@ -1,5 +1,3 @@
-# CorridorKey_MacOS
-An executable App with GUI for MacOS (Silicons) using CorridorKey
 # CorridorKey GUI — macOS
 
 A native macOS graphical interface for [CorridorKey](https://github.com/nikopueringer/CorridorKey), the neural green screen keyer by Corridor Digital.
